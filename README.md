@@ -24,8 +24,8 @@ public class StringConcatenation {
     }
 
     public static void main(String[] args) {
-        String str1 = "Charlotte";
-        String str2 = "basada";
+        String str1 = "Charlotte Francie";
+        String str2 = "Basada";
 
         String concatenatedString = concatenateStrings(str1, str2);
         System.out.println("Concatenated string: " + concatenatedString);
